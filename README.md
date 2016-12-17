@@ -7,4 +7,8 @@ Exciting!
 
 
 -- 
+changes from GitHub local copy.  Submitting into Master branch directly.
+--
+-- 
+changes from GitHub local copy.  Submitting into readme-edit and then pulling into Master branch.
 --
